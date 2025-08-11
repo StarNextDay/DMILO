@@ -24,7 +24,7 @@ From the [link](https://drive.google.com/drive/folders/1jElnRoFv7b31fG0v6pTSQkel
 
 From the [link](https://github.com/openai/guided-diffusion), download the checkpoint "lsun_bedroom.pt" and paste it to ./models/.
 
-From the [line](https://drive.google.com/drive/folders/1jElnRoFv7b31fG0v6pTSQkelbSX3xGZh), download the checkpoint "imagenet256.pt" and paste it to ./models/.
+From the [link](https://drive.google.com/drive/folders/1jElnRoFv7b31fG0v6pTSQkelbSX3xGZh), download the checkpoint "imagenet256.pt" and paste it to ./models/.
 ```
 mkdir models
 mv {DOWNLOAD_DIR}/celebahq_p2.pt ./models/
@@ -47,7 +47,7 @@ git clone https://github.com/LeviBorodenko/motionblur motionblur
 
 From the [link](https://drive.google.com/file/d/1vRoDpIsrTRYZKsOMPNbPcMtFDpCT6Foy/view), download the checkpoint "GOPRO_wVAE.pth" and paste it to ./bkse/experiments/pretrained/.
 ```
-mv {DOWNLOAD_DIR}/GOPRO_wVAE.pt ./experiments/pretrained/
+mv {DOWNLOAD_DIR}/GOPRO_wVAE.pt ./bkse/experiments/pretrained/
 ```
 {DOWNLOAD_DIR} is the directory that you downloaded checkpoint to.
 
