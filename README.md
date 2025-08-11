@@ -92,8 +92,7 @@ python dmilo-pgd.py --dataset "celeba" --task "motion_deblur" -n 5 --cuda 0
 ```
 
 ## References
-This repo is developed based on [DPS](https://github.com/DPS2022/diffusion-posterior-sampling), [BlindDPS](https://github.com/BlindDPS/blind-dps) and [DMPlug](https://github.com/sun-umn/DMPlug), especially for forward operations. Please also consider citing them if you use this repo.
-
+This repo is mainly developed based on [DMPlug](https://github.com/sun-umn/DMPlug).
 ## Citation
 
 If you find our work interesting, please consider citing
